@@ -12,6 +12,6 @@ The variable `VAR#` now has the value of π.
 ## Notes ##
 `PI()` does not have an associated `OUT` form and does not have syntax highlighting in the editor.
 This, along with the fact that `PI` can be used as a `DEF` name with little restriction,
-has intersting implications. It is possible that the dev team simply made mistakes while implementing `PI()`,
+has interesting implications. It is possible that the dev team simply made mistakes while implementing `PI()`,
 or maybe that it is not implemented in the same way as a regular instruction.
 Speed tests imply that PI`()` may be compiled to a constant, as `A#=PI()` performs just as quickly as `A#=3.14`.
